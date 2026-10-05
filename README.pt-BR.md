@@ -1,4 +1,4 @@
-🇬🇧 [English](README.md) · 🇧🇷 **Português**
+🇬🇧 [English](README.md) · 🇧🇷 **Português** · 🇮🇹 [Italiano](README.it.md)
 
 # Mapa acadêmico da matemática
 

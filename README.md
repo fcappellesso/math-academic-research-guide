@@ -1,4 +1,4 @@
-🇬🇧 **English** · 🇧🇷 [Português](README.pt-BR.md)
+🇬🇧 **English** · 🇧🇷 [Português](README.pt-BR.md) · 🇮🇹 [Italiano](README.it.md)
 
 # An academic map for mathematics
 
